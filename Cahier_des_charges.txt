@@ -1,0 +1,8 @@
+Visiteur
+Utilisateur -- inscription, connexion
+Administrateur -- inscription, connexion
+
+Partir de l'admin pour ensuite créer toutes les conditions
+
+Petites annonces -- CRUD 
+Catégories -- CRUD (qui peut créer, supprimer etc des catégories?)
